@@ -1,4 +1,4 @@
-package com.zhifeng.io.demo;
+package com.zhifeng.iodemo.fileDemos;
 
 import com.zhifeng.util.Logger;
 
